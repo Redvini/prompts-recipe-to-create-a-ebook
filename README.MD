@@ -1,18 +1,18 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    // <img width="100" src=".github/assets/banner.png">
 </p>
 
 
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+//<p align="center">
+//<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
+//<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
 
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/cover1.png"
     width="400"  
 />
 </p>
@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Redvini/prompts-recipe-to-create-a-ebook/blob/main/output/Criando%20um%20ebook%20_Vini%20Moraes.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -40,20 +40,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  |Crie um título de um ebook sobre o tema de segurança pessoal e cibernética, o ebook é do nicho de segurança de aplicativos e o subnicho é de proteção pessoal, o título deve ser épico e curto, e tenha uma temática de Cavaleiros medievais no título, me liste 5 variações de títulos                                                      |
+| conteúdo | Baseie se na Cartilha de Segurança CAIXA , localizada no endereço https://www.caixa.gov.br/Downloads/seguranca/Cartilha-seguranca.pdf e aja como um consultor de segurança falando uma linguagem jovem como o Peter Jordan do Canal Ei Nerd do Youtube. Depois escreva uma pequena introdução para um ebook sobre segurança cibernética para um público jovem, no estilo do Otavio Uga do canal Super Oito do youtube. |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | a templar knight standing with a smartphone in your right hand. The smartphone is emitting a blue light and the knigth is looking at the smartphone. Behind him, there are other two templars with sword in hands. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via MidJourney e refinada no Corel Paint Shop Pro X7
 
 ## 📚 Materiais
 
